@@ -18,7 +18,7 @@ What challenges did you face and how did you overcome them?
 
 
 
-## Authors
+## Author
 
 - [@LidwinePrior](https://github.com/LidwinePrior)
 
